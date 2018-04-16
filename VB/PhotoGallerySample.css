@@ -1,0 +1,109 @@
+﻿body 
+{
+	background-color: #303030;
+	margin: 0px;
+	padding: 0px;
+	color: #888888;
+}
+img
+{
+	border: none;
+}
+.info
+{
+	vertical-align: top;
+	padding: 2%;
+	padding-top: 0;
+	width: 25%;
+}
+.gallery
+{
+	padding-right: 24px; 
+	padding-bottom: 24px;
+}
+
+/* DataView */
+.thumbnailImageCell
+{
+	background-color: White;
+	padding: 5px;
+	cursor: pointer;
+	cursor: hand;
+}
+.dxdvFlowItemsContainer_1
+{
+	margin: -15px 0 0 -15px;
+}
+.dxdvFlowItem_1
+{
+	margin: 15px 0 0 15px;
+	height: 215px;
+	width: 203px!important;
+	text-align: center;
+	border: none;
+	float: left;
+	overflow: hidden;
+}
+.dxdvControlCell_1, .dxdvItem_1
+{
+	padding: 0px;
+	font-family: Tahoma;
+	font-size: 8pt;
+}
+.dxdvLoadingPanel_1
+{
+	border: solid 1px #9F9F9F;
+	background-color: white;
+	font: 9pt Tahoma;
+	color: #303030;
+}
+.dxdvLoadingPanel_1 td.dx
+{
+	white-space: nowrap;
+	text-align: center;
+	padding: 12px;
+	vertical-align: middle;
+}
+
+/* PopupControl */
+.Image
+{
+	cursor: pointer;
+	cursor: hand;
+}
+.closeBtnCell
+{
+	text-align: right;
+	padding-top: 10px;
+}
+.popupInfo
+{
+	text-align: left;
+	color: #888888;
+}
+.dxpcControl_1
+{
+	font: 9pt Tahoma;
+	color: black;
+	background-color: white;
+	border: solid 1px #8B8B8B;
+}
+.dxpcControl_1 a
+{
+	color: #1E3695;
+}
+.dxpcContent_1
+{
+	font: 9pt Tahoma;
+	color: #010000;
+	white-space: normal;
+	padding: 12px;
+	vertical-align:top;
+}
+.dxpcModalBackground_1
+{
+	background-color: #777777;
+	opacity: 0.7;
+	filter:progid:DXImageTransform.Microsoft.Alpha(Style=0, Opacity=70);
+}
+
