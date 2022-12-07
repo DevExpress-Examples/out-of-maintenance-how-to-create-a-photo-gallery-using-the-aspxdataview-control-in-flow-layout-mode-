@@ -1,6 +1,6 @@
 ﻿Imports System
 Imports System.Xml
-Imports DevExpress.Web.ASPxClasses
+Imports DevExpress.Web
 Imports System.Web.UI
 Imports System.IO
 
